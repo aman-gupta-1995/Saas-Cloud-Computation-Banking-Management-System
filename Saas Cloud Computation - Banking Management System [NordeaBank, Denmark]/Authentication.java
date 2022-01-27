@@ -2,7 +2,7 @@ import java.io.*;
 import java.sql.*;
 
 class Authentication
-{ 
+{
 BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 public int ValidateUser()
 {
