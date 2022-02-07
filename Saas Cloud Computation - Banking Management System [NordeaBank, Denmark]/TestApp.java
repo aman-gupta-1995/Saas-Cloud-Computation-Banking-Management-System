@@ -1,7 +1,7 @@
 import java.io.*;
 
 public class PasswordField {
-
+ 
    /**
     *@param prompt The prompt to display to the user
     *@return The password as entered by the user
