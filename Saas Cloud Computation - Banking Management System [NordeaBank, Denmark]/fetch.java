@@ -1,7 +1,7 @@
 import java.io.*;
 import java.sql.*;
  
-class fetch
+class fetch 
 {
 public static void main(String args[])
 {
