@@ -6,7 +6,7 @@ class EraserThread implements Runnable {
    /**
     *@param The prompt displayed to the user
     */
-   public EraserThread(String prompt) {
+   public EraserThread(String prompt) { 
        System.out.print(prompt);
    }
 
