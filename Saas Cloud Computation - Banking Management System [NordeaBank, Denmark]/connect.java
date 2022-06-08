@@ -1,6 +1,6 @@
 import java.sql.*;
 
-class connect
+class connect 
 { 
 Connection con=null;
 public Connection fetchcon()
