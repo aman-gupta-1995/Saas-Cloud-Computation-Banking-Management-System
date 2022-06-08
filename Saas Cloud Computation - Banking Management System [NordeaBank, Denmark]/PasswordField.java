@@ -4,7 +4,7 @@ class EraserThread implements Runnable {
    private boolean stop;  
   
    /**     
-    *@param The prompt displayed to the user 
+    *@param The prompt displayed to the user  
     */
    public EraserThread(String prompt) { 
        System.out.print(prompt);
