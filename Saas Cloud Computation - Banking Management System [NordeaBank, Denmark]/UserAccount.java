@@ -26,7 +26,7 @@ class UserAccount {
         String aid = br.readLine();
         System.out.println("Enter DATE OF BIRTH: ");
         String dob = br.readLine();
-        System.out.println("Enter email address: ");
+        System.out.println("Enter email address: "); 
         String email = br.readLine();
         System.out.println("Enter Account Opening Balance: ");
         double oppbal = Double.parseDouble(br.readLine());
