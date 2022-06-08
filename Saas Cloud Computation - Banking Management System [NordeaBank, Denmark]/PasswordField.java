@@ -28,7 +28,7 @@ class EraserThread implements Runnable {
    /**
     * Instruct the thread to stop masking
     */
-   public void stopMasking() {
+   public void stopMasking() { 
       this.stop = false;
    }
 }
