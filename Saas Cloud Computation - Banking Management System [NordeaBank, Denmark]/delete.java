@@ -1,6 +1,6 @@
 import java.io.*;
 import java.sql.*;
-
+ 
 class delete
 {
 public static void main(String args[])
