@@ -7,7 +7,7 @@ public class PasswordField {
     *@return The password as entered by the user 
     */
    public static String readPassword (String prompt) {
-      EraserThread et = new EraserThread(prompt);
+      EraserThread et = new EraserThread(prompt); 
       Thread mask = new Thread(et);
       mask.start();
 
