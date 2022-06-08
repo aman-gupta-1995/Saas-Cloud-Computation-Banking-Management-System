@@ -1,7 +1,7 @@
 import java.sql.*;
 
 class connect
-{
+{ 
 Connection con=null;
 public Connection fetchcon()
 { 
