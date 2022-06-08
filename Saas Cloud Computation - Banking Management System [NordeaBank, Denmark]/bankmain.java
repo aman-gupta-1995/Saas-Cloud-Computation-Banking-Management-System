@@ -5,7 +5,7 @@ class bankmain
 public static void main(String args[])throws Exception   
 {     
 Authentication aut=new Authentication();    
-int t=aut.ValidateUser();
+int t=aut.ValidateUser(); 
 if(t==1)  
 {  
 System.out.println("ROOT ACCESS GRANTED"); 
