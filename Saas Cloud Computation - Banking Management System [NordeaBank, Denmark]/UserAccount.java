@@ -5,7 +5,7 @@ import java.util.Date;
 class UserAccount {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); 
 
-    public void createAccount() throws Exception {
+    public void createAccount() throws Exception { 
         int accno = 0;
         connect c = new connect();
         Connection con = c.fetchcon();
