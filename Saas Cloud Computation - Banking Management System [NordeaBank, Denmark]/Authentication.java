@@ -6,7 +6,7 @@ class Authentication
 BufferedReader br=new BufferedReader(new InputStreamReader(System.in)); 
 public int ValidateUser()    
 {
-int t=0;
+int t=0; 
 try{
 
 System.out.println("Enter UserID");
