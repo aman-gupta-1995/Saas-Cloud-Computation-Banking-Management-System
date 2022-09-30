@@ -4,7 +4,7 @@ import java.sql.*;
 class Authentication   
 { 
 BufferedReader br=new BufferedReader(new InputStreamReader(System.in)); 
-public int ValidateUser()     
+public int ValidateUser()      
 {
 int t=0; 
 try{ 
