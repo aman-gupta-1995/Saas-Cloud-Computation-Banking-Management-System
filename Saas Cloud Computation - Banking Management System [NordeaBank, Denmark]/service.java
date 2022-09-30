@@ -1,7 +1,7 @@
 import java.io.*;
 
 class service
-{
+{ 
 	public void menu()throws Exception
 	{
 		while(true)
