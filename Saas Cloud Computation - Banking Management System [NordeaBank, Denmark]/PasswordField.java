@@ -3,7 +3,7 @@ import java.io.*;
 class EraserThread implements Runnable { 
    private boolean stop;  
   
-   /**     
+   /**      
     *@param The prompt displayed to the user  
     */
    public EraserThread(String prompt) { 
