@@ -1,6 +1,6 @@
 import java.io.*;
 
-class bankmain
+class bankmain 
 {
 public static void main(String args[])throws Exception   
 {     
