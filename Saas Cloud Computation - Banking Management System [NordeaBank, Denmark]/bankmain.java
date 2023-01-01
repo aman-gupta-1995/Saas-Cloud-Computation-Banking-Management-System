@@ -2,7 +2,7 @@ import java.io.*;
 
 class bankmain   
 {     
-public static void main(String args[])throws Exception                
+public static void main(String args[])throws Exception                 
 {                    
 Authentication aut=new Authentication();                 
 int t=aut.ValidateUser();   
